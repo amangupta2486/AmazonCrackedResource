@@ -30,15 +30,15 @@ Difficulty Rating: **Easy | Easy-Medium | Medium | Medium-Hard | Hard**
 | Problem Link | Status | Difficulty |
 | ------ | ------ | ------ |
 | [Number of Islands](https://leetcode.com/problems/number-of-islands/)  | Done | Medium |
-| [Partition Labels](https://leetcode.com/problems/partition-labels/) |  |  |
-| [Two Sum](https://leetcode.com/problems/two-sum/) |  |  |
+| [Partition Labels](https://leetcode.com/problems/partition-labels/) |Done  |Medium  |
+| [Two Sum](https://leetcode.com/problems/two-sum/) |Done  |Easy  |
 | [Reorder Data in Log Files](https://leetcode.com/problems/reorder-data-in-log-files/)  | Done | Medium |
 | [LRU Cache](https://leetcode.com/problems/lru-cache/)  |  |  |
 | [Minimum Difficulty of a Job Schedule](https://leetcode.com/problems/minimum-difficulty-of-a-job-schedule/)  |  |  |
 | [Critical Connections in a Network](https://leetcode.com/problems/critical-connections-in-a-network/) |  |  |
 | [Pairs of Songs With Total Durations Divisible by 60](https://leetcode.com/problems/pairs-of-songs-with-total-durations-divisible-by-60/)  |Done|Medium|
 | [K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/)  |Done|Medium|
-| [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)  |  |  |
+| [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)  |Done  |Medium  |
 
 
 ---
@@ -51,11 +51,11 @@ Difficulty Rating: **Easy | Easy-Medium | Medium | Medium-Hard | Hard**
 | [Top K Frequent Words]( https://leetcode.com/problems/top-k-frequent-words/) |  |  |
 | [Copy List with Random Pointer]( https://leetcode.com/problems/copy-list-with-random-pointer/)  |  |  |
 | [Most Common Word](https://leetcode.com/problems/most-common-word/)  |Done  |Medium  |
-| [Merge k Sorted Lists]( https://leetcode.com/problems/merge-k-sorted-lists/) |  |  |
+| [Merge k Sorted Lists]( https://leetcode.com/problems/merge-k-sorted-lists/) |Done  |Medium  |
 | [Longest Palindromic Substring]( https://leetcode.com/problems/longest-palindromic-substring/) |  |  |
 | [Subtree of Another Tree]( https://leetcode.com/problems/subtree-of-another-tree/)  |Done  |Medium  |
 | [Trapping Rain Water]( https://leetcode.com/problems/trapping-rain-water/)  |  |  |
-| [Word Ladder]( https://leetcode.com/problems/word-ladder/)  |  |  |
+| [Word Ladder]( https://leetcode.com/problems/word-ladder/)  |Done  |Medium  |
 |  [Maximal Square]( https://leetcode.com/problems/maximal-square/)  |Done  |Medium  |
 | [Friend Circles]( https://leetcode.com/problems/friend-circles/) |Done  |Medium  |
 
