@@ -52,9 +52,9 @@ Difficulty Rating: **Easy | Easy-Medium | Medium | Medium-Hard | Hard**
 | [Copy List with Random Pointer]( https://leetcode.com/problems/copy-list-with-random-pointer/)  |  |  |
 | [Most Common Word](https://leetcode.com/problems/most-common-word/)  |Done  |Medium  |
 | [Merge k Sorted Lists]( https://leetcode.com/problems/merge-k-sorted-lists/) |Done  |Medium  |
-| [Longest Palindromic Substring]( https://leetcode.com/problems/longest-palindromic-substring/) |  |  |
+| [Longest Palindromic Substring]( https://leetcode.com/problems/longest-palindromic-substring/) |Done  |Medium  |
 | [Subtree of Another Tree]( https://leetcode.com/problems/subtree-of-another-tree/)  |Done  |Medium  |
-| [Trapping Rain Water]( https://leetcode.com/problems/trapping-rain-water/)  |  |  |
+| [Trapping Rain Water]( https://leetcode.com/problems/trapping-rain-water/)  |Done  |Medium  |
 | [Word Ladder]( https://leetcode.com/problems/word-ladder/)  |Done  |Medium  |
 |  [Maximal Square]( https://leetcode.com/problems/maximal-square/)  |Done  |Medium  |
 | [Friend Circles]( https://leetcode.com/problems/friend-circles/) |Done  |Medium  |
