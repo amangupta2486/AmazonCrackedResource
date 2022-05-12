@@ -51,11 +51,11 @@ Difficulty Rating: **Easy | Easy-Medium | Medium | Medium-Hard | Hard**
 | [Top K Frequent Words]( https://leetcode.com/problems/top-k-frequent-words/) |  |  |
 | [Copy List with Random Pointer]( https://leetcode.com/problems/copy-list-with-random-pointer/)  |  |  |
 | [Most Common Word](https://leetcode.com/problems/most-common-word/)  |Done  |Medium  |
-| [Merge k Sorted Lists]( https://leetcode.com/problems/merge-k-sorted-lists/) |Done  |Medium  |
+| [Merge k Sorted Lists]( https://leetcode.com/problems/merge-k-sorted-lists/) |Done  |Hard  |
 | [Longest Palindromic Substring]( https://leetcode.com/problems/longest-palindromic-substring/) |Done  |Medium  |
 | [Subtree of Another Tree]( https://leetcode.com/problems/subtree-of-another-tree/)  |Done  |Medium  |
 | [Trapping Rain Water]( https://leetcode.com/problems/trapping-rain-water/)  |Done  |Medium  |
-| [Word Ladder]( https://leetcode.com/problems/word-ladder/)  |Done  |Medium  |
+| [Word Ladder]( https://leetcode.com/problems/word-ladder/)  |Done  |Hard  |
 |  [Maximal Square]( https://leetcode.com/problems/maximal-square/)  |Done  |Medium  |
 | [Friend Circles]( https://leetcode.com/problems/friend-circles/) |Done  |Medium  |
 
@@ -72,10 +72,10 @@ Difficulty Rating: **Easy | Easy-Medium | Medium | Medium-Hard | Hard**
 | [Analyze User Website Visit Pattern]( https://leetcode.com/problems/analyze-user-website-visit-pattern/)  |  |  |
 | [Prison Cells After N Days]( https://leetcode.com/problems/prison-cells-after-n-days/)  |  |  |
 | [Meeting Rooms II]( https://leetcode.com/problems/meeting-rooms-ii/) |  |  |
-| [Group Anagrams]( https://leetcode.com/problems/group-anagrams/) |  |  |
+| [Group Anagrams]( https://leetcode.com/problems/group-anagrams/) |Done  |Medium  |
 | [Sliding Window Maximum]( https://leetcode.com/problems/sliding-window-maximum/)  |  |  |
 | [Median of Two Sorted Arrays]( https://leetcode.com/problems/median-of-two-sorted-arrays/)  |  |  |
-| [Best Time to Buy and Sell Stock]( https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) |  |  |
+| [Best Time to Buy and Sell Stock]( https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) |Done  |Easy  |
 
 ---
 <br>
