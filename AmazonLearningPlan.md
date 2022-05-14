@@ -67,7 +67,7 @@ Difficulty Rating: **Easy | Easy-Medium | Medium | Medium-Hard | Hard**
 | Problem Link | Status | Difficulty |
 | ------ | ------ | ------ |
 | [Longest Substring Without Repeating Characters]( https://leetcode.com/problems/longest-substring-without-repeating-characters/)  |Done  |Medium  |
-| [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)  |  |  |
+| [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)  | Done |Medium  |
 | [Merge Intervals]( https://leetcode.com/problems/merge-intervals/)  |Done  |Medium  |
 | [Analyze User Website Visit Pattern]( https://leetcode.com/problems/analyze-user-website-visit-pattern/)  |  |  |
 | [Prison Cells After N Days]( https://leetcode.com/problems/prison-cells-after-n-days/)  |  |  |
@@ -86,7 +86,7 @@ Difficulty Rating: **Easy | Easy-Medium | Medium | Medium-Hard | Hard**
 | ------ | ------ | ------ |
 | [Robot Bounded In Circle]( https://leetcode.com/problems/robot-bounded-in-circle/) |  |  |
 | [Number of Provinces ]( https://leetcode.com/problems/number-of-provinces/) | Done |Medium  |
-| [Maximum Units on a Truck](https://leetcode.com/problems/maximum-units-on-a-truck/) |  |  |
+| [Maximum Units on a Truck](https://leetcode.com/problems/maximum-units-on-a-truck/) | Done |Easy  |
 | [Search Suggestions System]( https://leetcode.com/problems/search-suggestions-system/) |  |  |
 | [Minimum Cost to Connect Sticks ]( https://leetcode.com/problems/minimum-cost-to-connect-sticks/)  |  |  |
 | [Analyze User Website Visit Pattern]( https://leetcode.com/problems/analyze-user-website-visit-pattern/) |  |  |
