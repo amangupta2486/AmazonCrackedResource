@@ -74,7 +74,7 @@ Difficulty Rating: **Easy | Easy-Medium | Medium | Medium-Hard | Hard**
 | [Meeting Rooms II]( https://leetcode.com/problems/meeting-rooms-ii/) |  |  |
 | [Group Anagrams]( https://leetcode.com/problems/group-anagrams/) |Done  |Medium  |
 | [Sliding Window Maximum]( https://leetcode.com/problems/sliding-window-maximum/)  |  |  |
-| [Median of Two Sorted Arrays]( https://leetcode.com/problems/median-of-two-sorted-arrays/)  |  |  |
+| [Median of Two Sorted Arrays]( https://leetcode.com/problems/median-of-two-sorted-arrays/)  | Done | Hard |
 | [Best Time to Buy and Sell Stock]( https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) |Done  |Easy  |
 
 ---
@@ -105,7 +105,7 @@ Difficulty Rating: **Easy | Easy-Medium | Medium | Medium-Hard | Hard**
 | [Copy List with Random Pointer]( https://leetcode.com/problems/copy-list-with-random-pointer/) |  |  |
 | [GitContainer With Most Water]( https://leetcode.com/problems/container-with-most-water/) | Done |Median  |
 | [Design Tic-Tac-Toe]( https://leetcode.com/problems/design-tic-tac-toe/) |  |  |
-| [Decode Ways](https://leetcode.com/problems/decode-ways/) |  |  |
+| [Decode Ways](https://leetcode.com/problems/decode-ways/) | Done | Medium  |
 | [Baseball Game](https://leetcode.com/problems/baseball-game/) | Done |Easy  |
 | [Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/) |Done  |Medium  |
 | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)  |Done  |Medium  |
