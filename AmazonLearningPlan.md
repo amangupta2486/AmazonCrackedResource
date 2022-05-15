@@ -103,10 +103,10 @@ Difficulty Rating: **Easy | Easy-Medium | Medium | Medium-Hard | Hard**
 | Problem Link | Status | Difficulty |
 | ------ | ------ | ------ |
 | [Copy List with Random Pointer]( https://leetcode.com/problems/copy-list-with-random-pointer/) |  |  |
-| [GitContainer With Most Water]( https://leetcode.com/problems/container-with-most-water/) |  |  |
+| [GitContainer With Most Water]( https://leetcode.com/problems/container-with-most-water/) | Done |Median  |
 | [Design Tic-Tac-Toe]( https://leetcode.com/problems/design-tic-tac-toe/) |  |  |
 | [Decode Ways](https://leetcode.com/problems/decode-ways/) |  |  |
-| [Baseball Game](https://leetcode.com/problems/baseball-game/) |  |  |
+| [Baseball Game](https://leetcode.com/problems/baseball-game/) | Done |Easy  |
 | [Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/) |Done  |Medium  |
 | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)  |Done  |Medium  |
 | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)  |Done  |Medium  |
