@@ -33,7 +33,7 @@ Difficulty Rating: **Easy | Easy-Medium | Medium | Medium-Hard | Hard**
 | [Partition Labels](https://leetcode.com/problems/partition-labels/) |Done  ✅|Medium  |
 | [Two Sum](https://leetcode.com/problems/two-sum/) |Done ✅ |Easy  |
 | [Reorder Data in Log Files](https://leetcode.com/problems/reorder-data-in-log-files/)  | Done✅ | Medium |
-| [LRU Cache](https://leetcode.com/problems/lru-cache/)  |  |  |
+| [LRU Cache](https://leetcode.com/problems/lru-cache/)  |Done  |Medium  |
 | [Minimum Difficulty of a Job Schedule](https://leetcode.com/problems/minimum-difficulty-of-a-job-schedule/)  |  |  |
 | [Critical Connections in a Network](https://leetcode.com/problems/critical-connections-in-a-network/) |  |  |
 | [Pairs of Songs With Total Durations Divisible by 60](https://leetcode.com/problems/pairs-of-songs-with-total-durations-divisible-by-60/)  |Done|Medium|
@@ -48,8 +48,8 @@ Difficulty Rating: **Easy | Easy-Medium | Medium | Medium-Hard | Hard**
 
 | Problem Link | Status | Difficulty |
 | ------ | ------ | ------ |
-| [Top K Frequent Words]( https://leetcode.com/problems/top-k-frequent-words/) |  |  |
-| [Copy List with Random Pointer]( https://leetcode.com/problems/copy-list-with-random-pointer/)  |  |  |
+| [Top K Frequent Words]( https://leetcode.com/problems/top-k-frequent-words/) |Done  |Medium  |
+| [Copy List with Random Pointer]( https://leetcode.com/problems/copy-list-with-random-pointer/)  |Done  |Medium  |
 | [Most Common Word](https://leetcode.com/problems/most-common-word/)  |Done ✅ |Medium  |
 | [Merge k Sorted Lists]( https://leetcode.com/problems/merge-k-sorted-lists/) |Done ✅ |Hard  |
 | [Longest Palindromic Substring]( https://leetcode.com/problems/longest-palindromic-substring/) |Done ✅ |Medium  |
@@ -102,7 +102,7 @@ Difficulty Rating: **Easy | Easy-Medium | Medium | Medium-Hard | Hard**
 
 | Problem Link | Status | Difficulty |
 | ------ | ------ | ------ |
-| [Copy List with Random Pointer]( https://leetcode.com/problems/copy-list-with-random-pointer/) |  |  |
+| [Copy List with Random Pointer]( https://leetcode.com/problems/copy-list-with-random-pointer/) |Done  |Medium  |
 | [GitContainer With Most Water]( https://leetcode.com/problems/container-with-most-water/) | Done |Median  |
 | [Design Tic-Tac-Toe]( https://leetcode.com/problems/design-tic-tac-toe/) |  |  |
 | [Decode Ways](https://leetcode.com/problems/decode-ways/) | Done | Medium  |
